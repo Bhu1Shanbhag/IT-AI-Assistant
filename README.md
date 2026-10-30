@@ -47,7 +47,6 @@ User Request
 ├── index.html          # Web chat user interface
 ├── vector_db/          # Persisted Chroma vector database
 ├── requirements.txt    # Project dependencies
-├── .env.example        # Environment variable template
 └── .gitignore          # Git exclusion rules
 ```
 
